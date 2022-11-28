@@ -42,7 +42,7 @@ section {
     background-attachment: fixed; 
 }
 
-#hero .profile-img {
+#index .profile-img {
     width: 300px;
     border-radius: 50%;
 }
@@ -52,7 +52,7 @@ footer {
     padding: 50px;
 }
 
-#hero h1 {
+#index h1 {
     font-size: 3em;
 }
 
@@ -69,14 +69,14 @@ header a {
     color: black;
 }
 
-#hero {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('img/field.jpg');
+#index {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('img/mooi.jpg');
 }
 
 #about {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('img/beach.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('img/achtergrond.jpg');
 }
 
 #contact {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('img/canyon.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('img/gaaf.jpg');
 }
